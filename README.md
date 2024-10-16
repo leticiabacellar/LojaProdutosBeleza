@@ -53,7 +53,7 @@ Regras de Exclusão em Cascata: A tabela Produto inclui a regra ON DELETE CASCAD
 
 
 
-#Exemplo de Consultas
+# Exemplo de Consultas
 
 
 Produtos por Categoria: Visualize todos os produtos que pertencem a uma categoria específica.
